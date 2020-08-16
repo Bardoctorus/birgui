@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "birguivenv\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+    "C:\\Users\\Bardoctorus\\pythonProj\\birgui\\birguivenv\\Lib\\site-packages\\PySimpleGUI"
+    ]
+}
