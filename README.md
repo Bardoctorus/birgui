@@ -4,11 +4,15 @@ This is an extension of the [command line image converter](https://github.com/Ba
 
 The command line version was fine. Kinda. It worked for every use case I had, because I only ran it in folders with image files. I later found out that Photoshop files kill the program. I also found out that a surprising number of techy people found adding the script to their PATH and running the program from the terminal to be out of their comfort zones.
 
-Hence the addition of PySimpleGui
+Hence the addition of [PySimpleGui](https://pysimplegui.readthedocs.io/en/latest/)
 
 <h2>Shiny knobs</h2>
 
-The GUI is staying as simple as possible for now. Choose a folder, choose a new width in pixels. No options, no nonsense. That said there are some quality of life things to add.
+The GUI is staying as simple as possible for now. Choose a folder, choose a new width in pixels. No options, no nonsense. 
+
+![alt text](https://i.imgur.com/3ZQ8pda.png "Behold the power of this fucking thing")
+
+That said there are some quality of life things to add.
 
 <h2>TODO</h2>
 
