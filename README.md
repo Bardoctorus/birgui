@@ -1,6 +1,6 @@
 <h1>Bardoctorus' Simple Image Resizer, Now With 56% More GUI!</h1>
 
-This is an extension of the command line image converter I made partly out of convenience as a writer (After the 7000th time opening Photoshop <em>just to resize a fu-</em>) and partly to learn Python by hacking things together.
+This is an extension of the [command line image converter](https://github.com/Bardoctorus/bardoctorus_batch_image_resizer) I made partly out of convenience as a writer (After the 7000th time opening Photoshop <em>just to resize a fu-</em>) and partly to learn Python by hacking things together.
 
 The command line version was fine. Kinda. It worked for every use case I had, because I only ran it in folders with image files. I later found out that Photoshop files kill the program. I also found out that a surprising number of techy people found adding the script to their PATH and running the program from the terminal to be out of their comfort zones.
 
